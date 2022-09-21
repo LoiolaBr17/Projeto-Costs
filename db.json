@@ -18,8 +18,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 9000,
+      "services": [
+        {
+          "name": "Redesenho das telas",
+          "cost": "3000",
+          "description": "Recriar a identidade Visual do sistema",
+          "id": "789c19ae-b68b-41a8-835b-004e4edd238d"
+        },
+        {
+          "name": "Teste das Telas",
+          "cost": "6000",
+          "description": "fazer os testes unitários dos componentes visuais",
+          "id": "1913a567-9fe7-4a8e-bb54-03036a745224"
+        }
+      ],
       "id": 2
     }
   ],
